@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         updateDisplayTextView();
     }
 
+
     public void onOperandClick(View view) {
         // '='ボタンのメソッドを呼び出して過去の式を計算させる
         onEqualClick(null);
